@@ -1,33 +1,53 @@
-## Hi there, I am Rafael Mesquita, a computer science student. 
 <div align="center">
-  <a href="https://github.com/rafaelpmesquita">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelpmesquita&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelpmesquita&layout=compact&langs_count=7&theme=tokyonight"/>
+
+# Rafael Mesquita
+
+**Backend Software Engineer · C#/.NET · AWS · Distributed Systems**
+
+[LinkedIn](https://www.linkedin.com/in/rafael-mesquita-a180221a4/) · [GitHub](https://github.com/rafaelpmesquita)
+
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafael-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafael-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafael-Nuxt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg">
-  <img align="center" alt="Rafael-Nuxt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Rafael-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafael-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafael-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://blogfrontrafael.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Blog-%237159c1?style=for-the-badge&logo=internet&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/rafaelpmesquita_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:reifel.mesquita@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafael-mesquita-a180221a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- 
-</div>
-  
-  ##
-  
-  
-<div>
- GitHub em construção, em breve mais projetos.
-</div>
+
+## About
+
+Backend Software Engineer with 5+ years of experience building APIs, integrations and backend services. Currently working as a **Backend Developer Pleno III at Base2 Tecnologia**.
+
+My primary stack is **C#/.NET**, with hands-on experience in **Node.js, TypeScript, PostgreSQL and Oracle**. I enjoy improving existing systems, solving performance problems and designing reliable integrations.
+
+## Core technologies
+
+| Area | Technologies |
+|---|---|
+| Backend | C#, .NET, ASP.NET Core, Node.js, TypeScript, REST APIs |
+| Data | PostgreSQL, Oracle, SQL, Entity Framework Core, Dapper |
+| Cloud & messaging | AWS Lambda, SQS, S3, ECS, API Gateway, RDS, CloudWatch, Apache Kafka |
+| Engineering | Docker, CI/CD, automated testing, retries, dead-letter queues, idempotency |
+
+## What I'm focusing on
+
+- Backend architecture and system design
+- AWS and event-driven applications
+- Reliable asynchronous processing and distributed systems
+- Performance, observability and maintainable software
+
+## Selected work
+
+### OrderFlow — personal project in progress
+
+A .NET project exploring reliable asynchronous order processing, with PostgreSQL, message queues, retries, dead-letter handling and idempotency. Local AWS service emulation is used during development; this is not presented as a production AWS deployment.
+
+### Personal portfolio
+
+A Vue/Nuxt portfolio with an atomized component structure and a .NET API. I am restoring the original project while preserving its visual identity and component organization.
+
+- [Frontend repository](https://github.com/rafaelpmesquita/blogfrontrafael)
+- [Backend API repository](https://github.com/rafaelpmesquita/apiblogback)
+
+## Certifications
+
+- AWS Certified AI Practitioner
+- AWS Certified Cloud Practitioner
+
+---
+
+*Always learning, building and improving software.*
